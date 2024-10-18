@@ -2,4 +2,4 @@
 
 This project is inspired by my thesis work.
 
-The directory contains the code I implemented, while the pdfs contain my thesis work and the main paper from which I took inspiration
+The directory contains the code I implemented, while the pdfs contain my thesis work
